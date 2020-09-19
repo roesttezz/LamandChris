@@ -1,4 +1,4 @@
-# LAM & CHRIS
+# LAM & CHRIS Advisory
 # JP Morgan Coin Case Study
 ![JPM](https://www.jpmorganchase.com/corporate/investor-relations/images/hero-investor-relations.png)
 
